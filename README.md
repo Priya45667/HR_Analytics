@@ -142,7 +142,7 @@ The dashboard also compares job satisfaction ratings across different job roles,
 The dashboard provides gender-based attrition analysis across different age groups, helping HR teams understand workforce behavior more effectively.
 
 
-# 📚 Skills Demonstrated
+#  Skills Demonstrated
 
 During this project, I improved my knowledge in:
 
