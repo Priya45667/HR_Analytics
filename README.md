@@ -1,3 +1,4 @@
+<img width="1296" height="713" alt="HR_Analytics" src="https://github.com/user-attachments/assets/04c68e55-edbd-424f-a2d8-5d80a62c975c" />
 
 # 📊 HR Analytics Dashboard | Power BI
 This dashboard was developed as part of my learning journey in Data Analytics to understand employee attrition patterns and HR performance metrics using Power BI.
