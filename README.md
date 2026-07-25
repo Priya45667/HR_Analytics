@@ -1,6 +1,6 @@
 
 
-# 📊 HR Analytics Dashboard | Power BI
+# HR Analytics Dashboard | Power BI
 This dashboard was developed as part of my learning journey in Data Analytics to understand employee attrition patterns and HR performance metrics using Power BI.
 
 
